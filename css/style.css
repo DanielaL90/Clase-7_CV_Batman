@@ -1,0 +1,78 @@
+header {
+    text-align: center;
+
+    
+}
+
+.Perfil {
+    width: auto;
+    height: 150px;
+}
+
+h1 {
+    background-color: #c8c8c8;
+    font-family: 'Roboto', Times, serif;
+    font-weight: 700;
+    color:#005677;
+    font-style: normal;
+    
+}
+
+h2 {
+    background-color: #c9c8c8;
+    font-family: 'Roboto', Times, serif;
+    color:#005677;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.listado {
+    list-style-type: none;
+
+}
+
+ul li {
+    list-style-type: none;
+}
+
+body {
+    font-family: 'Roboto', Times, serif;
+    font-style: normal;
+}
+
+span {
+    font-style: italic;
+}
+
+footer {
+    text-align: center;
+    background-color: #005677;
+
+}
+footer span {
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 85%;
+    color: white;
+    
+}
+
+
+p {
+    font-family: 'Roboto', Times, serif;
+    font-style: normal;
+    font-size: 20px;
+}
+
+
+.instagram {
+    width: 15px;
+    height: 15px;  
+}
+
+.facebook {
+    width: 15px;
+    height: 15px;
+    
+}
